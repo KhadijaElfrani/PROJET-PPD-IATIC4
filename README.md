@@ -1,11 +1,8 @@
-///////////////////////////////////////////////////////
 Projet de l’UE programmation parallèle et distribuée
-CALCUL DES EL´ EMENTS PROPRES D’UNE MATRICE
+CALCUL DES ELEMENTS PROPRES D’UNE MATRICE
 SYMETRIQUE AVEC OPENMP
 IATIC4 (ISTY) - 2022/2023
 Professeurs : N. Emad, France Boillod-Cerneux
-Réalisé par : AGHLAL NIZAR & ELFRANI KHADIJA
-//////////////////////////////////////////////////////
 
 ## Introduction 
 
