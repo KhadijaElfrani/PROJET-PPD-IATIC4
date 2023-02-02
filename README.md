@@ -23,7 +23,6 @@ Ce projet est conçu pour résoudre ce problème pour une matrice de taille gran
 est effectué sur une matrice de taille 200 , cette matrice est alors projetée dans un sous espace beaucoup plus petit (m = 3) , vous pouvez à tout moment :
 	- Génerer une nouvelle matrice de taille différente pour tester ( décommenter la fonction génerer matrice dans main_functions.c ).
 	- Changer la taille de m dans le main.c ( #define SIZE_M 3 ) .
-Néanmoins, on n'a pas réussi a effectuer la troisième partie de Projet : Retour dans l’espace de départ.
 	 
 ## Prérequis
 
@@ -46,16 +45,9 @@ Néanmoins, on n'a pas réussi a effectuer la troisième partie de Projet : Reto
 	- calculate_eigenvalues.c : contient les fonction de calcul des vecteurs propres et valeurs propres.
 
 - Après avoir installé les prérequis ,  vous pouvez exécuter le Makefile.
-	Windows cmd : make (build)
-		        make run (run)
+	Windows cmd : $make (build)
+		      $make run (run)
 
 ## Licence
 
 Ce code est open source, vous pouvez alors le recopier, modifier ou l'ajuster à vos besoins.
-
-## Remerciements
-
-Un grand merci à Mme France Boillod-Cerneux pour son soutien tout au long du projet 
-ainsi que pour le temps et l'attention qu'elle a consacrés pour nous guider avec compétence.
-Sa contribution a été inestimable et a permis à notre projet de se développer de manière efficace et réussie. 
-Nous sommes reconnaissants pour son expertise et son engagement envers notre réussite.
